@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">TestFirestore</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="geoCodingAPi">AIzaSyBycnSpy4sGyhtnqZ8ENzXpaSTlnbPXJb0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_signup">LoginSignupActivity</string>
+    <string name="email">Email</string>
+    <string name="registeremail">Email (Company\'s email if you are business)</string>
+    <string name="lorem_email_com">Lorem@email.com</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="phone">Phone</string>
+    <string name="screen_name">Screen name</string>
+    <string name="jhone_doe">Jhone-Doe</string>
+    <string name="first_name">First Names</string>
+    <string name="jhone">Jhone</string>
+    <string name="last_name">Last Names</string>
+    <string name="doe">Doe</string>
+    <string name="text_simple">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="reset">Reset</string>
+    <string name="back_to">Back to</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="otp">OTP</string>
+    <string name="save">Save</string>
+    <string name="taxifan">TaxiFAN</string>
+    <string name="www_taxifan_com">www.taxifan.com</string>
+    <string name="support">Support</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="notifications">Notifications</string>
+    <string name="my_order_and_reviews">My Orders and Reviews</string>
+    <string name="change_screen_name">Change Screen Name</string>
+    <string name="change_password">Change Password</string>
+    <string name="language">Language</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="faq">Faq</string>
+    <string name="profile">Profile</string>
+    <string name="description">Description</string>
+    <string name="change_language">Change language</string>
+    <string name="english">English</string>
+    <string name="old_password">Old password</string>
+    <string name="new_password">New password</string>
+    <string name="UsernotExists">Email and Password does not match</string>
+    <string name="TaxiDriver">TaxiDriver</string>
+
+    <string-array name="navigationNames">
+        <item>Home</item>
+        <item>Notifications</item>
+        <item>My Orders and Reviews</item>
+        <item>Profile</item>
+        <item>Safety Tips</item>
+        <item>Ket Terms</item>
+    </string-array>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="change_screen_name_">Change screen name</string>
+    <string name="ok">ok</string>
+    <string name="cash_credit_debit_card">Cash\nCredit/Debit Card\nOnline/POS\nInvoice\nReceipt</string>
+    <string name="request_trip">Request Trip</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="continue_">Continue</string>
+    <string name="i_have_5_years_experience_as_a_taxi_driver_made_over_10_000_trips_my_website">I have 5 years experience as a taxi driver, made over 10,000 trips. My website</string>
+    <string name="forgot_password_">Forgot Password</string>
+    <string name="Done">DONE</string>
+    <string name="drop_location">DROP LOCATION</string>
+    <string name="enter_drop_location">Enter drop location</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="photo">Identification</string>
+    <string name="address_proof">Proof of address</string>
+    <string name="Userisnotapprovebyadminyet">Account is not approve by admin yet</string>
+    <string name="become_a_verified_user">Become a Verified User</string>
+    <string name="i_need">I need:</string>
+    <string name="i_will_pay_with">I will pay with:</string>
+    <string name="company_name_if_applicable">Company Name (If applicable)</string>
+    <string name="for_individual">(For individual)</string>
+    <string name="logo_or_tax_id_card">Logo, or Tax ID Card</string>
+    <string name="for_business">(For Business)</string>
+    <string name="tax_id_card">Tax ID Card</string>
+    <string name="coca_cola_inc">Coca Cola Inc</string>
+
+    <style name="TaxiDriver">Taxi Driver</style>
+    <string name="OrderConfirmCheckBox">I confirm that I know the passenger(s) </string>
+    <string name="Instruction">1.If taxi is not for you only, indicate the first and last names of all passengers. \n2.If no passengers then type - Only me. \n3.Add additional information about the trip (optional). </string>
+    <string name="pending">DRIVER ARRIVED</string>
+    <string name="declined">CANCEL</string>
+    <string name="firstname">Please enter First name</string>
+    <string name="lastname">Please enter Last name</string>
+    <string name="phonenumber">Please enter Phone number</string>
+    <string name="enteremail">Please enter Email</string>
+    <string name="validemail">Please enter Valid Email</string>
+    <string name="enterPassword">Please enter Password</string>
+    <string name="confirmPassword">Please enter Confirm Password</string>
+    <string name="passwordnotMatch">Confirm password and Password not match</string>
+    <string name="enterCity">Please enter City</string>
+    <string name="enterState">Please enter State</string>
+    <string name="enterCountry">Please enter Country</string>
+    <string name="please_wait_for_driver">Please wait for Driver....</string>
+</resources>
